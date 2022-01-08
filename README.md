@@ -1,16 +1,15 @@
-### Hi there 👋
+### 嗨！你好！！ 👋
 
-<!--
-**zhoyq-work/zhoyq-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=zhoyq-work&show_icons=true&locale=cn" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />    
+<img src="https://github-profile-trophy.vercel.app/?username=zhoyq-work&no-frame=true&column=3&row=2&margin-w=15&margin-h=15&theme=flat" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 
-Here are some ideas to get you started:
+### 🎉 欢迎访问我的 Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 目前外派到建行数据中心工作，离家很近，很开心。
+- 🌱 目前正在重新构建模型库。
+- 📫 可以通过 feedback#zhoyq.com 联系我，每周检查。
+- 😄 年前还有一件事情，完成模型库大屏以及相关统计接口，加油！
+
+> - [个人博客地址](https://zhoyq.com)
+> - [NothingJs渲染器地址（开发中）](https://nothingjs.com)
+> - [IOV车联网地址（开发中）](https://iov.zhoyq.com)
