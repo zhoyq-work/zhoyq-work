@@ -5,7 +5,6 @@
 
 ### 🎉 欢迎访问我的 Github
 
-- 🌱 目前正在重新构建模型库。
 - 📫 可以通过 feedback#zhoyq.com 联系我，每周检查。
 
 > - [个人博客地址](https://zhoyq.com)
